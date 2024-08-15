@@ -1,6 +1,6 @@
-# Projeto Full Stack
+# Projeto Front-end
 
-Este projeto é um sistema Full Stack que inclui uma API desenvolvida em TypeScript e um cliente React. O sistema permite o gerenciamento de usuários, incluindo a criação, leitura, atualização e exclusão de registros (CRUD). Além disso, o projeto implementa autenticação com JWT e integra um front-end estilizado usando styled-components e gerenciado com Zustand.
+Este projeto é um sistema Front-end que inclui uma API desenvolvida em TypeScript e um cliente React. O sistema permite o gerenciamento de usuários, incluindo a criação, leitura, atualização e exclusão de registros (CRUD). Além disso, o projeto implementa autenticação com JWT e integra um front-end estilizado usando styled-components e gerenciado com Zustand.
 
 Estrutura do Projeto
 
